@@ -91,8 +91,8 @@ In this project I deployed the model using Azure Container Instances service whi
 ![published pipeline](https://user-images.githubusercontent.com/65784601/105218551-94b26880-5b55-11eb-8e92-48a0faf61e7f.png)
 
 
-### Screen Recording
-https://www.youtube.com/watch?v=R8-qIZLQzgI&t=80s
+### Screen Recording Link
+#### https://www.youtube.com/watch?v=R8-qIZLQzgI&t=80s
 
 ### Standout Suggestion
 
