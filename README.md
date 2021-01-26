@@ -14,7 +14,7 @@ Authentication is crucial for the continuous flow of operations. Continuous Inte
 ##### Authentication types
 ###### Key-based
 ###### Token based
-In this project I used Azure Container Instances service which is a Key-based authentication.
+In this project I deployed the model using Azure Container Instances service which is a Key-based authentication.
 
 ### Registering Dataset
 
@@ -22,7 +22,7 @@ In this project I used Azure Container Instances service which is a Key-based au
 
 
 
-
+## Step 2: Create AutoML Experiment
 ### Used STANDARD_DS12_V2 Machine size
 
 
@@ -35,25 +35,24 @@ In this project I used Azure Container Instances service which is a Key-based au
 
 ![model](https://user-images.githubusercontent.com/65784601/105841121-6e1c8380-5fd4-11eb-9892-d56b0507d760.png)
 
-
+## Step 3: Deploy Best Model
 ## Deploy Best Model
 
-### Used Azure container Instance and enabld authentication
-
-
-
+### Used Azure container Instance and enabled authentication
 
 
 ### Model Deployed
 ![deploy](https://user-images.githubusercontent.com/65784601/105841154-7b397280-5fd4-11eb-9b1c-8aa18b961757.png)
 
-
+## Step 4: Anable Application Insights to retrieve log and  Visualize Performance.
 ### Updating and running logs.py
 ![app insights](https://user-images.githubusercontent.com/65784601/105841250-9ad09b00-5fd4-11eb-893b-28b919c091d5.png)
 
 ### Application insights enabled and accessed from the endpoints
 ![app insight true](https://user-images.githubusercontent.com/65784601/105841253-9c01c800-5fd4-11eb-90e9-1c606e4335d0.png)
 
+
+## Step 5: Consume Model
 ###  Consume model using Swagger
 
 
@@ -64,7 +63,7 @@ In this project I used Azure Container Instances service which is a Key-based au
 ![swaggerrr](https://user-images.githubusercontent.com/65784601/105841334-b8056980-5fd4-11eb-92ab-eecb671c4f1b.png)
 ![swaggerdata](https://user-images.githubusercontent.com/65784601/105841345-bd62b400-5fd4-11eb-8a75-c39c3bdff8ec.png)
 
-
+## Step 6: Comsume Model Endpoints
 ### Updating the endpoint.py
 
 ![exp](https://user-images.githubusercontent.com/65784601/105842375-5ba34980-5fd6-11eb-8a88-0ed021a06a0f.png)
@@ -72,7 +71,7 @@ In this project I used Azure Container Instances service which is a Key-based au
 
 ### Running endpoints.py to interact with the model
 ![score](https://user-images.githubusercontent.com/65784601/105842352-50e8b480-5fd6-11eb-83f9-217765a86575.png)
-### Step 7.
+## Step 7.
 
 ### Create, Publish and Consume a Pipeline in python SDK. Ran the cells in the notebook after downloading the config.json file and keeping in smae dirrectory as the notebook.
 
