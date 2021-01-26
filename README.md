@@ -18,7 +18,7 @@ In this project I used Azure Container Instances service which is a Key-based au
 
 ### Registering Dataset
 
-
+![ds](https://user-images.githubusercontent.com/65784601/105841054-534a0f00-5fd4-11eb-9f1b-61f5b61b95bd.png)
 
 
 
@@ -26,13 +26,14 @@ In this project I used Azure Container Instances service which is a Key-based au
 ### Used STANDARD_DS12_V2 Machine size
 
 
+![compute](https://user-images.githubusercontent.com/65784601/105841055-534a0f00-5fd4-11eb-9955-8485ce9e1781.png)
 
 
 
 ### Best model after completion is VotingEnsemble
 
 
-
+![model](https://user-images.githubusercontent.com/65784601/105841121-6e1c8380-5fd4-11eb-9892-d56b0507d760.png)
 
 
 ## Deploy Best Model
@@ -44,22 +45,33 @@ In this project I used Azure Container Instances service which is a Key-based au
 
 
 ### Model Deployed
-
+![deploy](https://user-images.githubusercontent.com/65784601/105841154-7b397280-5fd4-11eb-9b1c-8aa18b961757.png)
 
 
 ### Updating and running logs.py
-
+![app insights](https://user-images.githubusercontent.com/65784601/105841250-9ad09b00-5fd4-11eb-893b-28b919c091d5.png)
 
 ### Application insights enabled and accessed from the endpoints
-
+![app insight true](https://user-images.githubusercontent.com/65784601/105841253-9c01c800-5fd4-11eb-90e9-1c606e4335d0.png)
 
 ###  Consume model using Swagger
 
 
+![swaggerssh](https://user-images.githubusercontent.com/65784601/105841311-b0de5b80-5fd4-11eb-8afe-5793e361b5a0.png)
 
 ### Consume Model endpoints
 
+![swaggerrr](https://user-images.githubusercontent.com/65784601/105841334-b8056980-5fd4-11eb-92ab-eecb671c4f1b.png)
+![swaggerdata](https://user-images.githubusercontent.com/65784601/105841345-bd62b400-5fd4-11eb-8a75-c39c3bdff8ec.png)
 
+
+### Updating the endpoint.py
+
+![exp](https://user-images.githubusercontent.com/65784601/105842375-5ba34980-5fd6-11eb-8a88-0ed021a06a0f.png)
+
+
+### Running endpoints.py to interact with the model
+![score](https://user-images.githubusercontent.com/65784601/105842352-50e8b480-5fd6-11eb-83f9-217765a86575.png)
 ### Step 7.
 
 ### Create, Publish and Consume a Pipeline in python SDK. Ran the cells in the notebook after downloading the config.json file and keeping in smae dirrectory as the notebook.
