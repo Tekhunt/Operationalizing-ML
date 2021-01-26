@@ -94,7 +94,7 @@ In this project I deployed the model using Azure Container Instances service whi
 ### Screen Recording Link
 #### https://www.youtube.com/watch?v=R8-qIZLQzgI&t=80s
 
-### Standout Suggestion
+### Standout Suggestions
 
 Enabling Deep Learning expecially when the data is somewhat large and also also in the case of steps taken in AutoML in handling unbalanced data which could have a negative effect.
 
