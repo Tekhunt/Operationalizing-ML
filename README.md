@@ -68,7 +68,7 @@ In this project I deployed the model using Azure Container Instances service whi
 ### Updating the endpoint.py
 
 ![update endpoints](https://user-images.githubusercontent.com/65784601/105845234-bb9bef00-5fda-11eb-9b2e-3b8d640ca92c.png)
-![score](https://user-images.githubusercontent.com/65784601/105845243-c0f93980-5fda-11eb-9524-a37dd7b41262.png)
+
 
 
 
