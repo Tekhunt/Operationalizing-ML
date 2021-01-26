@@ -67,6 +67,8 @@ In this project I deployed the model using Azure Container Instances service whi
 ## Step 6: Comsume Model Endpoints
 ### Updating the endpoint.py
 
+![update endpoints](https://user-images.githubusercontent.com/65784601/105845234-bb9bef00-5fda-11eb-9b2e-3b8d640ca92c.png)
+![score](https://user-images.githubusercontent.com/65784601/105845243-c0f93980-5fda-11eb-9524-a37dd7b41262.png)
 
 
 
@@ -74,16 +76,16 @@ In this project I deployed the model using Azure Container Instances service whi
 ![score](https://user-images.githubusercontent.com/65784601/105842352-50e8b480-5fd6-11eb-83f9-217765a86575.png)
 ## Step 7.
 
-### Create, Publish and Consume a Pipeline in python SDK. Ran the cells in the notebook after downloading the config.json file and keeping in smae dirrectory as the notebook.
+### Create, Publish and Consume a Pipeline in python SDK. Ran the cells in the notebook after downloading the config.json file and keeping in same dirrectory as the notebook.
 
 #### Completed Pipeline run in notebook
 
 ![jupter notebook](https://user-images.githubusercontent.com/65784601/105216694-308ea500-5b53-11eb-82a2-606003a3aab6.png)
 
-#### Pipeline run completed in Azure Studio
+#### Pipeline run completed in Azureml Studio
 ![AzureStudio1](https://user-images.githubusercontent.com/65784601/105216775-4dc37380-5b53-11eb-8e86-b207a3b0b7e9.png)
 
-#### View in Azure Studio
+#### View in AzureML Studio
 ![AzureStudio](https://user-images.githubusercontent.com/65784601/105216777-4dc37380-5b53-11eb-8529-fa6298fcaacd.png)
 #### Published Pipeline showing REST endpoints
 ![published pipeline](https://user-images.githubusercontent.com/65784601/105218551-94b26880-5b55-11eb-8e92-48a0faf61e7f.png)
