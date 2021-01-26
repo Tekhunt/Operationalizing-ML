@@ -27,6 +27,7 @@ In this project I deployed the model using Azure Container Instances service whi
 
 
 ![compute](https://user-images.githubusercontent.com/65784601/105841055-534a0f00-5fd4-11eb-9955-8485ce9e1781.png)
+![exp](https://user-images.githubusercontent.com/65784601/105842375-5ba34980-5fd6-11eb-8a88-0ed021a06a0f.png)
 
 
 
@@ -66,7 +67,7 @@ In this project I deployed the model using Azure Container Instances service whi
 ## Step 6: Comsume Model Endpoints
 ### Updating the endpoint.py
 
-![exp](https://user-images.githubusercontent.com/65784601/105842375-5ba34980-5fd6-11eb-8a88-0ed021a06a0f.png)
+
 
 
 ### Running endpoints.py to interact with the model
