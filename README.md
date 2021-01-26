@@ -18,20 +18,20 @@ In this project I used Azure Container Instances service which is a Key-based au
 
 ### Registering Dataset
 
-![ds import](https://user-images.githubusercontent.com/65784601/105210144-f4574680-5b4a-11eb-94d1-4474c3655480.png)
+
 
 
 
 
 ### Used STANDARD_DS12_V2 Machine size
 
-![running compute](https://user-images.githubusercontent.com/65784601/105210172-ff11db80-5b4a-11eb-896a-a1f038182094.png)
+
 
 
 
 ### Best model after completion is VotingEnsemble
 
-![completed exp](https://user-images.githubusercontent.com/65784601/105210389-3ed8c300-5b4b-11eb-81ed-ffb15099c5f4.png)
+
 
 
 
@@ -39,28 +39,25 @@ In this project I used Azure Container Instances service which is a Key-based au
 
 ### Used Azure container Instance and enabld authentication
 
-![model setup](https://user-images.githubusercontent.com/65784601/105210425-4ef0a280-5b4b-11eb-9cf4-716b8856ba7c.png)
+
 
 
 
 ### Model Deployed
 
-![model-deploy](https://user-images.githubusercontent.com/65784601/105210435-531cc000-5b4b-11eb-93db-0196a7877740.png)
+
 
 ### Updating and running logs.py
-![logs](https://user-images.githubusercontent.com/65784601/105215164-371c1d00-5b51-11eb-9f57-47ad6b77cfda.png)
+
 
 ### Application insights enabled and accessed from the endpoints
-![app-insight](https://user-images.githubusercontent.com/65784601/105213472-0935d900-5b4f-11eb-8ef3-c759e47df89f.png)
+
 
 ###  Consume model using Swagger
 
-![primary key](https://user-images.githubusercontent.com/65784601/105215287-616dda80-5b51-11eb-9813-509dd9ed0546.png)
-![swagger output](https://user-images.githubusercontent.com/65784601/105215305-67fc5200-5b51-11eb-84f3-14c5d1549f17.png)
+
 
 ### Consume Model endpoints
-![endpointrun](https://user-images.githubusercontent.com/65784601/105215217-49965680-5b51-11eb-968d-9d597d099fce.png)
-![endpointpy](https://user-images.githubusercontent.com/65784601/105215202-4602cf80-5b51-11eb-8817-5d87532dd441.png)
 
 
 ### Step 7.
