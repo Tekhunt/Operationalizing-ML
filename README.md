@@ -2,7 +2,7 @@
 
 
 ## An Overview of the Project
-In this project, I used Azure to configure a cloud-based machine learning production model-( a classification model in this case) using AutoML, deployed it as a service and consumed it. I also created, published, and consumeeed a pipeline.
+In this project, I used Azure to configure a cloud-based machine learning production model-( a classification model in this case) using AutoML, deployed it as a service and consumed it. I also created, published, and consumed a pipeline.
 The dataset (https://automlsamplenotebookdata.blob.core.windows.net/automl-sample-notebook-data/bankmarketing_train.csv) used in this project contains data about marketing campaign of a Portuguese banking institution and we seek to predict if the client will subscribe to a term deposit (variable y in the dataset).
 
 
