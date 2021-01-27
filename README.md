@@ -94,6 +94,20 @@ In this project I deployed the model using Azure Container Instances service whi
 ### Screen Recording Link
 #### https://www.youtube.com/watch?v=R8-qIZLQzgI&t=80s
 
+# Corrections
+
+![score](https://user-images.githubusercontent.com/65784601/105845243-c0f93980-5fda-11eb-9524-a37dd7b41262.png)
+![notebook run](https://user-images.githubusercontent.com/65784601/106018017-65ee4200-60c1-11eb-8ba3-b792cbd8548f.png)
+![aml comp](https://user-images.githubusercontent.com/65784601/106018122-7e5e5c80-60c1-11eb-8ad5-08ff4c73e0b6.png)
+![aml studio run](https://user-images.githubusercontent.com/65784601/106018139-81594d00-60c1-11eb-8579-fbcb00fc4f80.png)
+![amlcomp](https://user-images.githubusercontent.com/65784601/106018152-85856a80-60c1-11eb-8492-ca3216bfd7da.png)
+![both](https://user-images.githubusercontent.com/65784601/106018160-86b69780-60c1-11eb-9fcd-f151036a8b41.png)
+![comptd](https://user-images.githubusercontent.com/65784601/106018170-88805b00-60c1-11eb-9a50-718f793977c2.png)
+![endpoint comp](https://user-images.githubusercontent.com/65784601/106018184-8cac7880-60c1-11eb-9fde-684cb4cfdf91.png)
+![pipeline](https://user-images.githubusercontent.com/65784601/106018192-8ddda580-60c1-11eb-910e-761cc75ac3c2.png)
+![active](https://user-images.githubusercontent.com/65784601/106018202-903fff80-60c1-11eb-9498-9e46df56baff.png)
+
+
 ### Standout Suggestions
 
 Enabling Deep Learning expecially when the data is somewhat large and also also in the case of steps taken in AutoML in handling unbalanced data which could have a negative effect.
