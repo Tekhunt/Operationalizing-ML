@@ -100,6 +100,6 @@ Enabling Deep Learning expecially when the data is somewhat large and also also 
 ![active](https://user-images.githubusercontent.com/65784601/106018202-903fff80-60c1-11eb-9498-9e46df56baff.png)
 
 ### Screen Recording Link
-#### https://www.youtube.com/watch?v=R8-qIZLQzgI&t=80s
+#### https://youtu.be/EPoDAWsCvR8
 
 
